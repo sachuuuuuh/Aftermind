@@ -77,6 +77,7 @@ ___
 See full setup instructions in:
 
 👉 [`INSTALL.md`](install.md)
+
 ---
 
 # 📁 Project Structure
